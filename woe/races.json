@@ -5,7 +5,6 @@
     "danoBase": 4,
     "vidaBase": 5,
     "vigorBase": 1,
-    "idExpansao": 1,
     "tipo": "NORMAL"
   },
   {
@@ -14,8 +13,7 @@
     "vidaBase": 5,
     "vigorBase": 4,
     "danoBase": 5,
-    "tipo": "NORMAL",
-    "idExpansao": 1
+    "tipo": "NORMAL"
   },
   {
     "id": 3,
@@ -23,8 +21,7 @@
     "vidaBase": 6,
     "vigorBase": 5,
     "danoBase": 3,
-    "tipo": "NORMAL",
-    "idExpansao": 1
+    "tipo": "NORMAL"
   },
   {
     "id": 4,
@@ -32,8 +29,7 @@
     "vidaBase": 4,
     "vigorBase": 2,
     "danoBase": 8,
-    "tipo": "NORMAL",
-    "idExpansao": 1
+    "tipo": "NORMAL"
   },
   {
     "id": 5,
@@ -41,8 +37,7 @@
     "vidaBase": 6,
     "vigorBase": 4,
     "danoBase": 4,
-    "tipo": "NORMAL",
-    "idExpansao": 1
+    "tipo": "NORMAL"
   },
   {
     "id": 6,
@@ -50,8 +45,7 @@
     "vidaBase": 3,
     "vigorBase": 5,
     "danoBase": 6,
-    "tipo": "NORMAL",
-    "idExpansao": 1
+    "tipo": "NORMAL"
   },
   {
     "id": 7,
